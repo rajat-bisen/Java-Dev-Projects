@@ -9,8 +9,8 @@ Welcome to my project portfolio showcasing my core Java and frontend development
 | Project Name | Description | GitHub Link |
 |--------------|-------------|-------------|
 | 🚗 **Car Rental System** | A console-based Java application for managing car rentals using OOP principles like Abstraction, Inheritance, Polymorphism, and Encapsulation. | [View Repository »](https://github.com/rajat-bisen/Project1CarRentalSystem.git) |
-| 🏨 **Hotel Reservation System** | Java-based reservation system allowing users to book and manage hotel rooms. Focused on real-world entity modeling and exception handling. | [View Repository »](https://github.com/YourGitHubUsername/Hotel-Reservation-System) |
-| 🛒 **Amazon Clone (Frontend)** | A responsive Amazon-like homepage clone built using HTML5 and CSS3 only — no frameworks or JavaScript. | [View Repository »](https://github.com/YourGitHubUsername/Amazon-Clone) |
+| 🏨 **Hotel Reservation System** | Java-based reservation system allowing users to book and manage hotel rooms. Focused on real-world entity modeling and exception handling. | [View Repository »](https://github.com/rajat-bisen/Project2HotelReservationSystem.git) |
+| 🛒 **Amazon Clone (Frontend)** | A responsive Amazon-like homepage clone built using HTML5 and CSS3 only — no frameworks or JavaScript. | [View Repository »]() |
 
 ---
 
